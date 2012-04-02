@@ -42,6 +42,7 @@ private Socket socket ;
         
         mShowView = new ShowView(this,screenWidth,screenHeight);
         
+        System.out.println("wwekjwhekjwh");
         /**
          * 设置为无标题栏
          */
