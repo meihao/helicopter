@@ -19,7 +19,7 @@ import android.view.WindowManager;
 
 public class HelicopterActivity extends Activity {
 
-private Socket socket ;
+    private Socket socket ;
 	
 	private InputStream is;
     
