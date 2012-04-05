@@ -6,7 +6,6 @@ import java.io.InputStream;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
-import com.hongtaili.helicopter.R;
 import com.hongtaili.helicopter.myView.ShowView;
 import com.hongtaili.helicopter.tool.JpgFrame;
 
@@ -32,7 +31,6 @@ public class HelicopterActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        
         /**
          * 获得屏幕的属性 然后传递到surfeceview中
          */
