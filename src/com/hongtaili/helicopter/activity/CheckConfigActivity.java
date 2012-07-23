@@ -1,5 +1,8 @@
 package com.hongtaili.helicopter.activity;
 
+
+ 
+
 import com.hongtaili.helicopter.R;
 
 import android.app.Activity;
@@ -13,5 +16,4 @@ public class CheckConfigActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.check_config);
 	}
-
 }
