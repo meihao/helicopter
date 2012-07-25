@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Helicontroller</string>
+    <string name="server_ip">10.10.104.31</string>
+    <string name="server_port">9348</string>
+    <string name="logo">logo</string>
 </resources>
