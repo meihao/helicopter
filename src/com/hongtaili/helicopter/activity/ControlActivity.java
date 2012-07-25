@@ -2,7 +2,7 @@ package com.hongtaili.helicopter.activity;
 
 import com.hongtaili.helicopter.myView.Control;
 import com.hongtaili.helicopter.myView.Control.ControlListener;
-
+import com.hongtaili.helicopter.R;
 import android.os.Bundle;
 import android.app.Activity;
 
